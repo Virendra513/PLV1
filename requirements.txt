@@ -1,7 +1,5 @@
 streamlit
 pandas
-numpy
-scipy
 gensim
 rdkit
 tensorflow
@@ -9,3 +7,5 @@ torch
 matplotlib
 scikit-learn
 joblib
+numpy>=1.21,<1.27
+scipy>=1.7,<1.12
