@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+gensim
+rdkit
+tensorflow
+torch
+matplotlib
+scikit-learn
+joblib
