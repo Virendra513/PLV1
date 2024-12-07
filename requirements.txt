@@ -1,4 +1,3 @@
-rdkit
 gensim
 matplotlib
 mol2vec
@@ -6,5 +5,4 @@ numpy
 pandas
 streamlit
 tensorflow
-torch==2.5.1
-libxrender
+torch
