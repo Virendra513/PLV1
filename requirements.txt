@@ -1,9 +1,8 @@
-pip
 streamlit
 pandas
 numpy
 torch
-rdkit
+rdkit==2023.09.1
 gensim
 matplotlib
 tensorflow
