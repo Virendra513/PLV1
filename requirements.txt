@@ -1,3 +1,4 @@
+rdkit
 gensim
 matplotlib
 mol2vec
