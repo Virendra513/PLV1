@@ -6,6 +6,7 @@ from tensorflow.keras.models import load_model
 import matplotlib.pyplot as plt
 from mol2vec.features import mol2alt_sentence
 from gensim.models import Word2Vec
+from rdkit import Chem
 
 # Paths to required models and files
 ALPHABET_EMBEDDINGS_PATH = "models/embdedding_seq_2.csv"
