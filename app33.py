@@ -4,7 +4,6 @@ import numpy as np
 import torch
 from tensorflow.keras.models import load_model
 import matplotlib.pyplot as plt
-from rdkit import Chem
 from mol2vec.features import mol2alt_sentence
 from gensim.models import Word2Vec
 
