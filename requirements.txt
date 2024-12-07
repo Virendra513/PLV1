@@ -1,9 +1,9 @@
-gensim==4.3.3
-matplotlib==3.9.3
-mol2vec==0.2.2
+gensim
+matplotlib
+mol2vec
 numpy
 pandas
-streamlit==1.40.2
+streamlit
 tensorflow
 torch
-rdkit==2022.9.2
+rdkit
