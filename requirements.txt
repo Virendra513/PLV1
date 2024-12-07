@@ -7,3 +7,4 @@ pandas
 streamlit
 tensorflow
 torch
+sudo apt-get install libxrender1
