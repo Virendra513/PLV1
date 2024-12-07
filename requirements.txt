@@ -10,3 +10,4 @@ joblib
 numpy>=1.21,<1.27
 scipy>=1.7,<1.12
 mol2vec
+libxrender1
