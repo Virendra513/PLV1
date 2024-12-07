@@ -146,6 +146,4 @@ elif input_mode == "Upload CSV":
                 )
             else:
                 st.error("Uploaded CSV must contain 'SMILES', 'Protein Sequence', and 'Real K_i' columns.")
-
-
             
