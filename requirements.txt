@@ -6,4 +6,4 @@ pandas
 streamlit==1.40.2
 tensorflow
 torch
-rdkit==2024.3.5
+rdkit==2023.9.1
