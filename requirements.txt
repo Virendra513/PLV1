@@ -1,7 +1,7 @@
 streamlit
 pandas
 gensim
-rdkit==2024.3.5
+rdkit-pypi
 tensorflow==2.18.0
 torch==2.5.1
 matplotlib
