@@ -1,11 +1,9 @@
 pip
+streamlit
+pandas
+numpy
+torch
 rdkit
 gensim
 matplotlib
-mol2vec
-numpy==2.1
-pandas
-streamlit
 tensorflow
-torch
-libxrender1
