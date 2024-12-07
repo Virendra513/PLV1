@@ -1,13 +1,12 @@
 streamlit
 pandas
 gensim
-rdkit
-tensorflow
-torch
+rdkit=2024.3.5
+tensorflow=2.18.0
+torch=2.5.1
 matplotlib
 scikit-learn
 joblib
 numpy>=1.21,<1.27
 scipy>=1.7,<1.12
-mol2vec
-libxrender1
+mol2vec=0.2.2
