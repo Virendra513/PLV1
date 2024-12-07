@@ -1,3 +1,4 @@
+python==3.11.0
 gensim==4.3.3
 matplotlib==3.9.3
 mol2vec==0.2.2
@@ -8,4 +9,4 @@ rdkit_pypi==2022.9.5
 streamlit==1.40.2
 tensorflow==2.18.0
 tensorflow_intel==2.18.0
-torch==2.5.1+cu124
+torch==2.5.1
