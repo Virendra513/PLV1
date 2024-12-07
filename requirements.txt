@@ -3,7 +3,7 @@ rdkit
 gensim
 matplotlib
 mol2vec
-numpy
+numpy==2.1
 pandas
 streamlit
 tensorflow
